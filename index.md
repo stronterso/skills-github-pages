@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Tor´s Github page sida
 ---
-Det här är en övning om Github Pages och hur det funkar
+description: Det här är en övning om Github Pages och hur det funkar
+author: Tor
